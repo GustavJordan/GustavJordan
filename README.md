@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Gustavo and i'm using the GitHub!
+![](link)https://hoopshype.com/wp-content/uploads/sites/92/2023/02/i_fb_02_c2_lebron-james.png?w=1000&h=600&crop=1
 
 <!--
 **GustavJordan/GustavJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
